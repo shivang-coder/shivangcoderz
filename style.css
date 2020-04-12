@@ -1,0 +1,16 @@
+h1 {
+    color:black;
+    justify-content:center ;
+
+}
+ 
+    
+
+.header{
+    background-color: blueviolet;
+}
+.hyperlinks{
+    border: solid;
+    display: flex;
+    justify-content:space-between ;
+}
